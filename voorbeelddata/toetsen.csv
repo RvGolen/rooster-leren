@@ -1,0 +1,9 @@
+toets_id,vak,lokaal,tijd,aantal_studenten,vereist_toezicht
+T1,Statistiek,A1.04,09:00,110,2
+T2,Inleiding Recht,B2.10,09:00,180,3
+T3,Microbiologie,C0.22,09:00,55,1
+T4,Calculus,A1.05,11:00,75,2
+T5,Bestuurskunde,B2.11,11:00,55,1
+T6,Psychologie,C0.21,11:00,140,2
+T7,Economie,A1.04,14:00,115,2
+T8,Ethiek,C0.22,14:00,50,1

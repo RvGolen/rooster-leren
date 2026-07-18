@@ -1,0 +1,19 @@
+---
+description: Alle uitleg, comments en begeleiding in het Nederlands; codetermen blijven Engels en worden de eerste keer kort uitgelegd.
+globs:
+alwaysApply: true
+---
+
+# Taal: Nederlands
+
+- **Alle uitleg, comments en begeleiding zijn in het Nederlands.** Ook variabele-
+  toelichtingen, foutuitleg en reflectievragen.
+- **Codetermen blijven Engels** — dat is de echte taal van de code. Voorbeelden:
+  `for`, `if`, `def`, `dict`, `list`, `function`, `return`, `import`.
+  Leg zo'n term de **eerste keer** dat hij voorkomt kort uit, daarna niet meer.
+  Voorbeeld: "We gebruiken een `list` (een Engels woord voor 'lijst': een
+  geordende rij waarden)."
+- **Kies Nederlandse namen voor variabelen** in lesvoorbeelden waar dat natuurlijk
+  is, zodat de code leesbaar blijft: `aantal_studenten`, `surveillanten`, `lokaal`.
+  Dit helpt de cursist de logica te volgen los van de taalbarrière.
+- Vermijd onnodig jargon. Komt een vakterm echt van pas, leg hem dan in één zin uit.

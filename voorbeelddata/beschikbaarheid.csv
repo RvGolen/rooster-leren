@@ -1,0 +1,31 @@
+naam,tijd,beschikbaar
+Jansen,09:00,ja
+Jansen,11:00,ja
+Jansen,14:00,ja
+De Vries,09:00,ja
+De Vries,11:00,ja
+De Vries,14:00,nee
+Bakker,09:00,ja
+Bakker,11:00,ja
+Bakker,14:00,ja
+Willems,09:00,ja
+Willems,11:00,ja
+Willems,14:00,nee
+De Boer,09:00,ja
+De Boer,11:00,nee
+De Boer,14:00,ja
+Smit,09:00,nee
+Smit,11:00,ja
+Smit,14:00,ja
+Peters,09:00,ja
+Peters,11:00,nee
+Peters,14:00,ja
+Hendriks,09:00,nee
+Hendriks,11:00,ja
+Hendriks,14:00,ja
+Van Dijk,09:00,ja
+Van Dijk,11:00,ja
+Van Dijk,14:00,ja
+Mulder,09:00,ja
+Mulder,11:00,ja
+Mulder,14:00,nee
