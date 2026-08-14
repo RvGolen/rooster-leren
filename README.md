@@ -28,6 +28,22 @@ lukken.
 
 ---
 
+## Vooraf: je laptop is van de universiteit
+
+Op een werklaptop mag je vaak niet zomaar alles installeren. Daar gaan we
+gewoon achter komen, en dat is prima. Eén afspraak vooraf:
+
+> **Vraagt Windows ergens om een beheerderswachtwoord dat je niet hebt, of zegt
+> hij dat je geen rechten hebt? Stop daar dan en stuur me een bericht.**
+> Ga er niet omheen zoeken en probeer geen trucjes van internet. Er is bijna
+> altijd een andere weg, en die zoeken we samen uit. Dit is een van de twee
+> dingen waarvoor je mij meteen mag storen.
+
+Alle drie de installaties hieronder kunnen normaal gesproken zonder
+beheerdersrechten. Maar dat verschilt per laptop, dus we testen het gewoon.
+
+---
+
 ## Wat je gaat installeren, en wat het is
 
 Drie dingen. Dit is wat ze doen, zodat je niet blind op knopjes klikt:
@@ -42,76 +58,62 @@ Drie dingen. Dit is wat ze doen, zodat je niet blind op knopjes klikt:
 
 ## Stap 1: Cursor installeren
 
-1. Ga naar **cursor.com** en download Cursor voor jouw computer.
+1. Ga naar **cursor.com** en download Cursor voor Windows.
 2. Installeer het en start het op.
 3. Maak een account aan of log in. Dat is nodig, want de AI-assistent werkt
    alleen als je ingelogd bent.
 
-> **Werk je op een laptop van de universiteit?** Kan het zijn dat je iets niet
-> mag installeren, of dat er om een beheerderswachtwoord wordt gevraagd. Ga daar
-> niet omheen zoeken. Stuur me even een bericht, dan kijken we er samen naar.
+Cursor installeert zichzelf normaal in je eigen gebruikersmap en heeft daarvoor
+geen beheerdersrechten nodig.
 
 ---
 
-## Stap 2: Python en Git installeren
+## Stap 2: Python installeren
 
-Kies hieronder **alleen het stukje dat bij jouw computer hoort**. De rest kun je
-overslaan.
+1. Ga naar **python.org**, klik bovenin op *Downloads*, en download de nieuwste
+   versie voor Windows.
+2. Start de installer. Je krijgt nu één scherm dat er ongeveer zo uitziet: een
+   grote knop *Install Now*, daaronder *Customize installation*, en helemaal
+   onderin een paar vinkjes.
+3. **Zet onderin het vinkje bij "Add python.exe to PATH".**
 
-### Als je een Mac hebt
+   > ⚠️ Dit is het belangrijkste vinkje van deze hele pagina. Vergeet je het, dan
+   > kan Windows Python later niet vinden en lijkt alles kapot terwijl er niets
+   > mis is. Vergeten? Niet erg: installeer gewoon opnieuw met het vinkje aan.
 
-Op een Mac krijg je Python en Git in één keer binnen.
+4. Klik daarna op **Install Now**. Dat is de gewone installatie in je eigen
+   gebruikersmap, waar je geen beheerdersrechten voor nodig hebt.
 
-1. Open Cursor.
-2. Open onderin een terminal: menu **Terminal → New Terminal**. Er verschijnt
-   een venster met een knipperende cursor. Dat is een plek waar je de computer
-   rechtstreeks opdrachten typt.
-3. Typ dit en druk op Enter:
+   > Klik dus **niet** op *Customize installation*, en zet geen vinkje bij iets
+   > met *for all users* of *admin privileges*. Dat zijn juist de opties die om
+   > een beheerderswachtwoord gaan vragen.
 
-   ```
-   git --version
-   ```
+5. Wacht tot hij klaar is en sluit de installer.
 
-4. Waarschijnlijk verschijnt er nu een venster van je Mac dat vraagt of je de
-   *Command Line Developer Tools* wilt installeren. **Klik op Installeren** en
-   wacht tot het klaar is. Dit kan een paar minuten duren. Hiermee heb je in één
-   klap zowel Git als Python te pakken.
-5. Als het klaar is, typ je dit om te controleren:
-
-   ```
-   python3 --version
-   ```
-
-   Je hoort nu iets als `Python 3.12.4` te zien. Het exacte nummer maakt niet uit.
-
-> **Let op voor later:** op een Mac heet het commando `python3`, niet `python`.
-> Typ je `python`, dan krijg je "command not found". Dat is geen kapotte
-> computer, dat is gewoon de naam.
-
-### Als je Windows hebt
-
-Op Windows installeer je de twee los.
-
-1. **Python.** Ga naar **python.org**, klik op *Downloads*, en download de
-   installer voor Windows.
-   > ⚠️ **Het belangrijkste vinkje van deze hele pagina:** zet tijdens het
-   > installeren een vinkje bij **"Add python.exe to PATH"**, onderin het eerste
-   > scherm. Vergeet je dat, dan kan je computer Python later niet vinden en
-   > lijkt alles kapot. Vergeten? Gewoon opnieuw installeren met het vinkje aan.
-
-   > Gebruik de installer van python.org en **niet** de Microsoft Store. Typ je
-   > straks `python` en opent de Store, dan is Python nog niet goed geïnstalleerd.
-2. **Git.** Ga naar **git-scm.com**, download Git voor Windows, en installeer
-   het. Je mag overal gewoon op *Next* klikken, de standaardinstellingen zijn prima.
-3. Start Cursor daarna opnieuw op, zodat het de nieuwe programma's ziet.
+> **Onthoud dit voor later:** op Windows heet het commando gewoon `python`. In
+> sommige lesbestanden staat "of probeer `python3`". Dat is voor mensen op een
+> Mac. Bij jou werkt `python`.
 
 ---
 
-## Stap 3: de cursus binnenhalen
+## Stap 3: Git installeren
+
+1. Ga naar **git-scm.com** en download Git voor Windows.
+2. Start de installer en klik overal gewoon op **Next**. De standaardinstellingen
+   zijn prima; je hoeft niets te veranderen.
+3. Vraagt Windows hier om een beheerderswachtwoord dat je niet hebt? **Stop en
+   stuur me een bericht.** Er is een versie van Git die dat niet nodig heeft, die
+   zet ik dan voor je klaar. Dit is niet iets om zelf mee te gaan puzzelen.
+
+Start Cursor daarna **opnieuw op**, zodat het Python en Git kan zien.
+
+---
+
+## Stap 4: de cursus binnenhalen
 
 1. Open Cursor.
-2. Druk op **Ctrl+Shift+P** (Windows) of **Cmd+Shift+P** (Mac). Bovenin verschijnt
-   een balkje waarin je opdrachten kunt zoeken.
+2. Druk op **Ctrl+Shift+P**. Bovenin verschijnt een balkje waarin je opdrachten
+   kunt zoeken.
 3. Typ `git clone` en kies **Git: Clone**.
 4. Plak dit adres en druk op Enter:
 
@@ -125,7 +127,7 @@ Op Windows installeer je de twee los.
 
 ---
 
-## Stap 4: controleer dat je de hele map open hebt (belangrijk!)
+## Stap 5: controleer dat je de hele map open hebt (belangrijk!)
 
 Dit is de enige stap waar je iets mis kunt doen zonder dat je het merkt, dus doe
 hem even.
@@ -145,24 +147,27 @@ alleen niet als tutor, maar geeft gewoon de antwoorden weg. En daar leer je niet
 
 ---
 
-## Stap 5: laat Cursor je installatie nakijken
+## Stap 6: laat Cursor je installatie nakijken
 
 Nu de leuke stap: je laat de AI-assistent zelf controleren of alles goed staat.
 
-1. Open de chat in Cursor met **Ctrl+L** (Windows) of **Cmd+L** (Mac).
+1. Open de chat in Cursor met **Ctrl+L**.
 2. Kopieer onderstaande tekst er helemaal in en druk op Enter.
 
 ```
 Ik ben een complete beginner en ga in deze map een Python-cursus doen.
-Controleer of mijn computer er klaar voor is, en leg het uit in gewone taal
-zonder jargon. Doe het volgende:
+Ik werk op Windows, op een laptop van mijn werk waarop ik waarschijnlijk geen
+beheerdersrechten heb. Controleer of mijn computer klaar is, en leg het uit in
+gewone taal zonder jargon. Doe het volgende:
 
-1. Kijk of Python werkt, en met welk commando (python of python3).
+1. Kijk of Python werkt en welke versie het is.
 2. Kijk of git werkt.
-3. Kijk of ik op deze computer Python-pakketten mág installeren. Gebruik daarvoor
-   een dry-run van pip, zodat er nu nog niets echt geïnstalleerd wordt. Later in
-   de cursus heb ik pandas en ortools nodig.
-4. Kijk of het bestand .cursor/rules/tutor.mdc bestaat vanuit deze map.
+3. Kijk of ik als gewone gebruiker Python-pakketten mag installeren. Gebruik
+   daarvoor een dry-run met de --user optie, zodat er nu nog niets echt wordt
+   geïnstalleerd. Later in de cursus heb ik pandas en ortools nodig.
+4. Let bij punt 3 ook op foutmeldingen over SSL, certificaten of een proxy. Die
+   komen op werklaptops vaker voor en zijn belangrijk om nu te weten.
+5. Kijk of het bestand .cursor/rules/tutor.mdc bestaat vanuit deze map.
 
 Geef me daarna een kort lijstje: wat werkt, wat werkt niet, en wat ik eraan moet
 doen. Als iets om een beheerderswachtwoord vraagt of door de beheerder wordt
@@ -171,9 +176,9 @@ geblokkeerd, zeg dat dan gewoon eerlijk en probeer het niet te omzeilen.
 
 3. Lees zijn antwoord. Staat alles op groen? Dan ben je klaar om te beginnen.
 
-Werkt punt 3 niet, of zegt hij dat installeren geblokkeerd is? Dat is precies
-waarom we het nú testen en niet over drie weken. Stuur me een bericht, dan lossen
-we het op voor je er last van krijgt.
+Zegt hij dat punt 3 of 4 niet lukt? **Stuur me het antwoord door.** Dat is precies
+waarom we dit nú testen en niet pas over drie weken, halverwege de cursus. Dan
+lossen we het rustig op voordat je er last van krijgt.
 
 ---
 
@@ -182,14 +187,18 @@ we het op voor je er last van krijgt.
 Stuur me gewoon een bericht. Serieus, daar hoef je niet lang mee te wachten en
 het is nooit een domme vraag.
 
-Doe dat in elk geval meteen bij deze twee dingen, want daar valt niets aan te
-prutsen:
+Doe dat in elk geval meteen bij deze dingen, want daar valt niets aan te prutsen:
 
 - er wordt om een **beheerderswachtwoord** gevraagd, of je krijgt te zien dat je
   ergens **geen rechten** voor hebt;
+- een foutmelding over **SSL, een certificaat of een proxy** bij het installeren
+  van een pakket;
+- een foutmelding waarin het woord **`UnicodeEncodeError`** of **`charmap`**
+  voorkomt. Dat gaat over hoe jouw scherm rare tekens weergeeft en is een
+  bekende Windows-eigenaardigheid, geen fout van jou;
 - iets in de cursus zelf klopt niet: een link die nergens heen gaat, een script
   dat crasht, of een stap die niet kan kloppen. Dat is dan gewoon een fout van
-  mij, geen fout van jou.
+  mij.
 
 Voor **uitleg over de stof** heb je mij niet nodig: vraag het je AI-tutor in
 Cursor, in **Ask-modus**. Vraag om een *hint*, niet om de oplossing. Daar is hij
