@@ -59,4 +59,16 @@ for toets in toetsen:
 > *als* er te weinig surveillanten zijn". In **module 5** leer je `if`/`else`: kiezen
 > op basis van een voorwaarde. Vraag 3 hierboven was er al een voorproefje van.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie het
+als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **module 5 — condities**.

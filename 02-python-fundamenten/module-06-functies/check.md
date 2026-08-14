@@ -63,4 +63,17 @@ functies. En je hebt `heeft_conflict` — een functie die **twee** diensten verg
 > leer je de *geneste loop* (een loop in een loop) waarmee je `heeft_conflict` op een
 > hele lijst van diensten loslaat. Daarna ben je klaar voor **Project 1**.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt of de uitvoer klopt. Stap 3 en 4 maken
+alleen functies zonder iets te printen, dus die komen samen met stap 5 aan het licht.
+Zie het als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of
+je het snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **module 7 — lijsten van dicts & geneste loops**.

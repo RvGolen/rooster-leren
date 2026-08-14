@@ -45,12 +45,16 @@ De cursus loopt in fases. Je werkt ze op volgorde af.
 > die je nu hebt, loopt van fase 0 tot en met het eindproject. Dat is ruim genoeg
 > werk; je hoort het wanneer fase 4 klaarstaat.
 
-**Elke module** heeft dezelfde vier bestanden:
+**Elke module** heeft dezelfde vier bestanden. In de modules waar je zelf code typt
+staat er nog een vijfde bij:
 
 - `les.md` — een korte uitleg met één voorbeeld. Begint met een **voorspelvraag**.
 - `opdracht.py` — code met `#TODO`'s die jij zelf invult. *Hier typ je zelf.*
 - `uitleg.md` — het *waaróm* achter het concept.
 - `check.md` — een paar zelfcheck-vragen + "leg het in je eigen woorden uit".
+- `controleer.py`: draai `python controleer.py` als je klaar denkt te zijn. Het
+  draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt, zonder je het
+  antwoord te geven. Of je het ook *snapt*, bepaal je zelf in `check.md`.
 
 Houd modules klein: 15–30 minuten per stuk. Liever vaker even, dan lange sessies.
 

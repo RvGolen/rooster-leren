@@ -52,6 +52,20 @@ Je verandert je naam in `opdracht.py` maar de terminal toont nog de oude tekst.
 - Iets onduidelijk aan je scherm? Straks kun je dat in **Ask-modus** aan je AI-tutor
   vragen.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Werkt `python` niet? Probeer dan `python3 controleer.py`.
+
+Dat script draait jouw `opdracht.py` en zegt of de uitvoer klopt. Zie het als
+hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **`../module-02-de-vier-modi/les.md`** — daar leer je Cursor als tutor
 gebruiken.
 

@@ -52,5 +52,17 @@ for i in range(len(rooster)):
 Vul `voortgang.md` bij: welk concept zat het lekkerst, en welk vond je het lastigst?
 Dat lastige concept is precies wat je in Project 1 nog eens oefent.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie het
+als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **`../../projecten/project-1-conflicten/`** — je eerste echte project,
 waarin alles samenkomt.

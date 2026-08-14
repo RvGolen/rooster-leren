@@ -52,4 +52,16 @@ Noteer in `voortgang.md` wat lastig was.
 > In **module 3** leer je een `dict` (dictionary) waarmee je die gegevens met een
 > *label* bij elkaar houdt: `{"lokaal": "A1.04", "tijd": "09:00", ...}`.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie het
+als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **module 3 — dictionaries**.

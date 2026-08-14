@@ -63,4 +63,16 @@ for toets in toetsen:
 > `function`: een herbruikbaar stukje met een naam. Je bouwt er meteen je eerste
 > echte rooster-functie mee: `heeft_conflict`.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie het
+als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **module 6 — functies**.

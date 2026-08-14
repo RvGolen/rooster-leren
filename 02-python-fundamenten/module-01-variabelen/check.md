@@ -61,6 +61,18 @@ surveillanten = "2"
 - Vond je iets onduidelijk? Vraag je AI-tutor in **Ask-modus** om het *anders* uit
   te leggen — niet om de opdracht voor je te maken.
 
+### Even mechanisch controleren 🔍
+
+Draai in de terminal, in de map van deze module:
+
+```bash
+python controleer.py
+```
+
+Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie het
+als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
+snapt. Dat laatste deed je hierboven zelf.
+
 ➡️ Door naar **module 2 — lijsten**.
 
 > 🔎 **Vooruitblik (spiraalvorm):** nu past één toets in losse variabelen. Maar een
