@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Wordt door de cursist zelf gegenereerd tijdens fase 3 / het eindproject
+gemaakt_rooster.csv

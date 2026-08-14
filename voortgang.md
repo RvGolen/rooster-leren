@@ -25,7 +25,12 @@ module is genoeg.
 |--------|-----|-------|----------------------------------------|
 | 01 — variabelen | ☐ | | |
 | 02 — lijsten | ☐ | | |
-| ... | | | |
+| 03 — dictionaries | ☐ | | |
+| 04 — loops | ☐ | | |
+| 05 — condities | ☐ | | |
+| 06 — functies | ☐ | | |
+| 07 — lijsten van dicts & geneste loops | ☐ | | |
+| Project 1 — conflicten | ☐ | | |
 
 ---
 

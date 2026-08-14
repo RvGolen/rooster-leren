@@ -31,6 +31,10 @@ Doe ze op volgorde. Elke module heeft een `les.md` waar je begint, een
 `opdracht.py` om te oefenen, een `uitleg.md` voor het waarom, en een `check.md`
 om te toetsen of het beklijft.
 
+Na module 6 sluit je fase 2 af met **Project 2 — de validator**
+(`../projecten/project-2-validator/`): daar breng je alles samen in één programma
+dat een rooster op meerdere regels tegelijk controleert.
+
 ---
 
 ## Wat verandert er in je werkwijze

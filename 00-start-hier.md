@@ -35,8 +35,11 @@ De cursus loopt in fases. Je werkt ze op volgorde af.
 | `02-python-fundamenten/` | 1 | Zelf de bouwstenen van Python schrijven |
 | `03-data-en-structuur/` | 2 | Echte data inlezen; AI-code leren *lezen* |
 | `04-optimalisatie/` | 3 | Van controleren naar optimaliseren (OR-Tools) |
-| `05-werken-met-ai/` | 4 | De AI betrouwbaar aansturen en controleren |
 | `projecten/` | — | Drie groeiende projecten, eindigend op je eigen tool |
+
+> **Fase 4 (de AI betrouwbaar aansturen en controleren) volgt later.** De cursus
+> die je nu hebt, loopt van fase 0 tot en met het eindproject. Dat is ruim genoeg
+> werk; je hoort het wanneer fase 4 klaarstaat.
 
 **Elke module** heeft dezelfde vier bestanden:
 

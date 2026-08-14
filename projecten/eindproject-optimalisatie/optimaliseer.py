@@ -24,6 +24,11 @@ import regels
 
 # --- Controle achteraf (voorgedaan): jouw validator over het resultaat ---
 def controleer(pad="gemaakt_rooster.csv"):
+    import os
+    if not os.path.exists(pad):
+        print(f"⚠️  '{pad}' bestaat nog niet. Laat Cursor eerst het model bouwen")
+        print("    (het gedeelte hierboven) zodat het rooster wordt weggeschreven.")
+        return []
     gemaakt = pd.read_csv(pad)
     toetsen = data.lees_toetsen()
     beschikbaarheid, bevoegdheden = data.lees_beschikbaarheid(), data.lees_bevoegdheden()
@@ -40,3 +45,9 @@ def controleer(pad="gemaakt_rooster.csv"):
     for m in meldingen:
         print(" -", m)
     return meldingen
+
+
+# Draai je de validator door 'python optimaliseer.py' te typen, dan checkt hij
+# hieronder automatisch het rooster dat je model zojuist heeft weggeschreven.
+if __name__ == "__main__":
+    controleer()

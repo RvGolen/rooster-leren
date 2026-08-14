@@ -61,7 +61,7 @@ surveillanten = "2"
 - Vond je iets onduidelijk? Vraag je AI-tutor in **Ask-modus** om het *anders* uit
   te leggen — niet om de opdracht voor je te maken.
 
-➡️ Door naar **module 2 — lijsten** (volgt zodra de cursus verder wordt uitgerold).
+➡️ Door naar **module 2 — lijsten**.
 
 > 🔎 **Vooruitblik (spiraalvorm):** nu past één toets in losse variabelen. Maar een
 > dag heeft véél tijdsloten, en een rooster véél toetsen. Losse doosjes worden dan

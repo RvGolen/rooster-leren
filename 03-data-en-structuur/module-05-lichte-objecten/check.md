@@ -51,4 +51,4 @@ dat hoeft niet: één class, een paar velden, één methode.
 
 ## Klaar met module 5 ✅
 
-➡️ Door naar **`module-06-script-opdelen/`**.
+➡️ Door naar **`../module-06-script-opdelen/`**.

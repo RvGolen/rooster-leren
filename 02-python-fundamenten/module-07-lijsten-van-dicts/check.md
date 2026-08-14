@@ -52,5 +52,5 @@ for i in range(len(rooster)):
 Vul `voortgang.md` bij: welk concept zat het lekkerst, en welk vond je het lastigst?
 Dat lastige concept is precies wat je in Project 1 nog eens oefent.
 
-➡️ Door naar **`projecten/project-1-conflicten/`** — je eerste echte project, waarin
-alles samenkomt.
+➡️ Door naar **`../../projecten/project-1-conflicten/`** — je eerste echte project,
+waarin alles samenkomt.

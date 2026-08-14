@@ -58,17 +58,17 @@ Dat is fase 3, samengebald in één project.
 
 ---
 
-## Brug naar fase 4
+## Hier houdt de cursus voorlopig op
 
 Je hebt nu ervaren hoe het werkt om de AI te regisseren: goede prompts schrijven,
 Plan-modus gebruiken, diffs beoordelen, en de AI terugsturen als hij afdwaalt.
-In fase 4 wordt dat je **vaste werkwijze** voor een echt project.
 
-Je leert hoe je een eigen `rules`-bestand schrijft voor jouw domein — zodat de AI
-niet van scratch begint maar jouw regels al kent. En je oefent het patroon dat je
-hier al hebt gebruikt: kleine stappen, lees elke diff, leg elke keuze terug bij de
-AI als je hem niet begrijpt.
+**Fase 4 volgt later.** Daarin wordt dat je vaste werkwijze voor een echt project:
+je schrijft een eigen `rules`-bestand voor jouw domein, zodat de AI niet van
+scratch begint maar jouw regels al kent. Je hoort het wanneer die klaarstaat.
 
-Neem gerust even pauze. Als je terugkomt, start je in **fase 4**.
+Tot die tijd is dit de beste oefening: pak je **eigen** surveillance-situatie erbij
+en probeer het patroon uit deze fase erop toe te passen. Kleine stappen, lees elke
+diff, en leg elke keuze terug bij de AI als je hem niet begrijpt.
 
-🎉 Tot zover fase 3 — knap werk.
+🎉 Tot zover: knap werk.

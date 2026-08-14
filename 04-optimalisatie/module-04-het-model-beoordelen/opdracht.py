@@ -3,6 +3,7 @@
 # Draai eerst het gegenereerde model:  python gegenereerd_model.py
 # Dat schrijft 'gemaakt_rooster.csv'. Daarna laat je JOUW validator erop los.
 # ---------------------------------------------------------------------------
+import os
 import pandas as pd
 import data
 import regels
@@ -21,6 +22,12 @@ toetsen = data.lees_toetsen()
 lokalen = data.lees_lokalen()
 beschikbaarheid = data.lees_beschikbaarheid()
 bevoegdheden = data.lees_bevoegdheden()
+
+if not os.path.exists("gemaakt_rooster.csv"):
+    raise SystemExit(
+        "⚠️  'gemaakt_rooster.csv' bestaat nog niet.\n"
+        "    Draai eerst:  python gegenereerd_model.py"
+    )
 gemaakt = pd.read_csv("gemaakt_rooster.csv")
 
 meldingen = (

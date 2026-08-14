@@ -1,5 +1,10 @@
 # Check — Module 4: Het model beoordelen
 
+> **Voordat je begint:** dit script leest `gemaakt_rooster.csv`, dat pas ontstaat
+> nadat je `gegenereerd_model.py` in deze map hebt gedraaid (zie `les.md`). Draai
+> je `opdracht.py` als eerste, dan krijg je een duidelijke foutmelding in plaats
+> van output — draai dan eerst `gegenereerd_model.py`.
+
 ## Zelfcheck
 
 1. **Welke constraint ontbrak in `gegenereerd_model.py`?**

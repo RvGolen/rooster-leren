@@ -49,8 +49,12 @@ doen. Noteer het resultaat kort in `../../voortgang.md`.
 
 ---
 
-## Klaar met module 6 ✅ — en met fase 2
+## Klaar met de modules van fase 2 ✅
 
 Je hebt nu alle bouwstenen van fase 2: CSV inlezen, pandas, filteren en
 tellen, AI-code kritisch lezen, een class lezen, en je eigen code opdelen in
-bestanden. ➡️ Door naar fase 3.
+bestanden. Tijd om ze samen te brengen in je eerste echte validator.
+
+➡️ Door naar **`../../projecten/project-2-validator/lees-mij.md`** — Project 2,
+waarin je een rooster op meerdere regels tegelijk controleert. Dat rondt fase 2
+af; van daaruit stuurt het je door naar fase 3.
