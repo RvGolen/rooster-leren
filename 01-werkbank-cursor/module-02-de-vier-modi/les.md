@@ -43,7 +43,7 @@ voor je oplost, ziet het er af uit — maar jóuw brein heeft niets gedaan. Je l
 niets, en straks kun je niet beoordelen of AI-code klopt. Precies de vaardigheid die
 deze cursus je wil geven.
 
-Daarom is er in deze map ook een ingebouwde tutor-regel (`.cursor/rules/tutor.mdc`):
+Daarom is er in deze map ook een ingebouwde tutor-regel (`../../.cursor/rules/tutor.mdc`):
 zelfs áls je het vraagt, geeft de AI in de leeropdrachten geen kant-en-klare oplossing,
 maar een hint en één stap tegelijk. Dat is expres. Vraag om een *hint*, niet om "de
 oplossing".

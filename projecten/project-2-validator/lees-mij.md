@@ -39,7 +39,7 @@ Dit is een project, geen module — dus meer zelfstandigheid en minder steun dan
 je gewend bent. Werk in deze volgorde, en draai na elke stap
 (`python main.py`):
 
-1. **Tel eerst met de hand.** Open de bestanden in `voorbeelddata/` en zoek
+1. **Tel eerst met de hand.** Open de bestanden in `../../voorbeelddata/` en zoek
    zelf naar overtredingen — één voor elke regel hierboven. Schrijf op wat je
    vindt (toets-ID's, namen, tijden). Dat is je meetlat: straks weet je of je
    programma klopt, omdat je het al met de hand hebt nagekeken.

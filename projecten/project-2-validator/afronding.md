@@ -60,6 +60,6 @@ rooster dat klopt én zo min mogelijk kost". Dan blijken de kolommen `type` en
 `uurtarief` in `medewerkers.csv` — die je in heel fase 2 nog nergens
 gebruikte — ineens het hele punt.
 
-Neem gerust even pauze. Als je terugkomt, start je in **`04-optimalisatie/`**.
+Neem gerust even pauze. Als je terugkomt, start je in **`../../04-optimalisatie/`**.
 
 🎉 Tot zover fase 2 — knap werk.
