@@ -19,9 +19,13 @@ dingen schrijven. Dat fundament betaalt zich later dubbel terug.
 
 ## Wat je nodig hebt
 
-- **Cursor** geïnstalleerd (de editor waar je in werkt). Download via cursor.com.
-- Deze map (`rooster-leren/`) geopend in Cursor: *File → Open Folder…*
-- Verder niets. Python en de voorbeelddata zitten erbij of regelen we onderweg.
+Alles wat je moet installeren staat in **[`README.md`](README.md)**: Cursor,
+Python en Git, met een controlestap om te zien of het goed staat.
+
+> **Heb je die nog niet doorlopen? Doe dat eerst.** Zonder die stappen loop je in
+> module 1 al vast op iets wat niets met de stof te maken heeft.
+
+Heb je hem wel gedaan, dan ben je klaar. De voorbeelddata zit erbij.
 
 ---
 
