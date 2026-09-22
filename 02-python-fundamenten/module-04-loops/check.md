@@ -71,4 +71,4 @@ Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie h
 als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
 snapt. Dat laatste deed je hierboven zelf.
 
-➡️ Door naar **module 5 — condities**.
+➡️ Door naar **`../module-05-condities/les.md`**: module 5, condities.

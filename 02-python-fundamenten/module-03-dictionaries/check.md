@@ -60,4 +60,4 @@ Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie h
 als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
 snapt. Dat laatste deed je hierboven zelf.
 
-➡️ Door naar **module 4 — loops**.
+➡️ Door naar **`../module-04-loops/les.md`**: module 4, loops.

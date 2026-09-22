@@ -75,4 +75,4 @@ Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie h
 als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
 snapt. Dat laatste deed je hierboven zelf.
 
-➡️ Door naar **module 6 — functies**.
+➡️ Door naar **`../module-06-functies/les.md`**: module 6, functies.

@@ -76,4 +76,4 @@ alleen functies zonder iets te printen, dus die komen samen met stap 5 aan het l
 Zie het als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of
 je het snapt. Dat laatste deed je hierboven zelf.
 
-➡️ Door naar **module 7 — lijsten van dicts & geneste loops**.
+➡️ Door naar **`../module-07-lijsten-van-dicts/les.md`**: module 7, lijsten van dicts & geneste loops.
