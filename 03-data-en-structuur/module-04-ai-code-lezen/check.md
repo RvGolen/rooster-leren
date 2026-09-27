@@ -50,4 +50,4 @@ ontbrekende gevallen controleert niemand anders het voor je.
 
 ## Klaar met module 4 ✅
 
-➡️ Door naar de volgende module van fase 2.
+➡️ Door naar **`../module-05-lichte-objecten/les.md`**: de volgende module van fase 2.

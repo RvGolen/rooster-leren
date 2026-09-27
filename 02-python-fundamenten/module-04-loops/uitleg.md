@@ -54,3 +54,7 @@ waaróm die witruimte er staat — straks zie je 'm ook in AI-code terug.
 | body (de loop-body) | de ingesprongen regels die herhaald worden |
 | indentation (inspringing) | witruimte die aangeeft wat bij de loop hoort; **4 spaties** |
 | `IndentationError` | foutmelding bij verkeerde inspringing |
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

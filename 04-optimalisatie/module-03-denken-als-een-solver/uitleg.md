@@ -18,3 +18,7 @@ een rooster dat technisch goedkoper is maar een regel breekt. Als de objective n
 
 Dat is ook precies waarom module 4 je vraagt een *gegenereerd* model te lezen en te beoordelen:
 niet om te zien of de code loopt, maar of de constraints kloppen met de regels die jij kent.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

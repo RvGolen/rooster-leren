@@ -58,3 +58,7 @@ nog niet vaak los, maar in module 6 geeft je eerste echte functie — `heeft_con
 | `==` | vergelijken: "is gelijk aan" (twee istekens!) |
 | `!=` `<` `>` `<=` `>=` | de overige vergelijkingen |
 | `boolean` | een waarde die `True` of `False` is |
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

@@ -51,6 +51,10 @@ erdoorheen, tel iets, filter op een waarde), kun je hier onveranderd toepassen.
 
 ## Door naar de volgende module
 
-Je kunt nu data uit een bestand halen. In `module-02-pandas-kennismaken/` zie je
-diezelfde data nog eens, maar dan als overzichtelijke tabel — handig zodra een
-CSV honderden rijen heeft in plaats van acht.
+Je kunt nu data uit een bestand halen. In module 2 (pandas kennismaken) zie je
+diezelfde data nog eens, maar dan als overzichtelijke tabel. Dat is handig zodra
+een CSV honderden rijen heeft in plaats van acht.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

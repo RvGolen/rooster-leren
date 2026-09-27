@@ -54,4 +54,4 @@ vraag je koos en wat eruit kwam.
 
 ## Klaar met module 3 ✅
 
-➡️ Door naar **`../module-04-ai-code-lezen/`**.
+➡️ Door naar **`../module-04-ai-code-lezen/les.md`**.

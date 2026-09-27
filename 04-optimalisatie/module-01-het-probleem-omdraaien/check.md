@@ -41,4 +41,4 @@ Noteer het kort in `../../voortgang.md`. In module 3 kom je hier op terug.
 
 ## Klaar met module 1 ✅
 
-➡️ Door naar **`../module-02-de-greedy-toewijzer/`**.
+➡️ Door naar **`../module-02-de-greedy-toewijzer/les.md`**.

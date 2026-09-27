@@ -46,6 +46,10 @@ erover" is, hoef je niet te schrikken van het woord.
 ## Door naar de volgende module
 
 Je kunt nu een class lezen, en er een veld en een methode aan toevoegen. In
-`module-06-script-opdelen/` leer je je code over meerdere bestanden verdelen —
-en daar kom je classes en functies in een apart bestand tegen, klaar om
+module 6 (script opdelen) leer je je code over meerdere bestanden verdelen. Daar
+kom je classes en functies in een apart bestand tegen, klaar om
 ge-`import`-eerd te worden.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

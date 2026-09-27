@@ -64,5 +64,5 @@ Dat script draait jouw `opdracht.py` en zegt per stap of de uitvoer klopt. Zie h
 als hulpmiddel, niet als examen: het vertelt je of je uitvoer klopt, niet of je het
 snapt. Dat laatste deed je hierboven zelf.
 
-➡️ Door naar **`../../projecten/project-1-conflicten/`** — je eerste echte project,
-waarin alles samenkomt.
+➡️ Door naar **`../../projecten/project-1-conflicten/lees-mij.md`**: je eerste echte
+project, waarin alles samenkomt.

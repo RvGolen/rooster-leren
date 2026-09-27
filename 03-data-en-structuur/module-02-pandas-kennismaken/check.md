@@ -50,4 +50,4 @@ Noteer kort in `../../voortgang.md` hoe jouw tabel eruitziet, vergeleken met
 
 ## Klaar met module 2 ✅
 
-➡️ Door naar **`../module-03-pandas-filteren-tellen/`**.
+➡️ Door naar **`../module-03-pandas-filteren-tellen/les.md`**.

@@ -27,3 +27,7 @@ zegt wat hij doet, is minder foutgevoelig dan tien regels die het stap voor
 stap voordoen. En dat is precies waar je bij het superviseren van AI-code op
 gaat letten: klopt wat deze regel *zegt* dat hij doet, met wat je zelf
 verwacht?
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

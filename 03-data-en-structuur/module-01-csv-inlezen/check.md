@@ -48,4 +48,4 @@ uitgangspunt voor de rest van deze fase.
 
 ## Klaar met module 1 ✅
 
-➡️ Door naar **`../module-02-pandas-kennismaken/`**.
+➡️ Door naar **`../module-02-pandas-kennismaken/les.md`**.

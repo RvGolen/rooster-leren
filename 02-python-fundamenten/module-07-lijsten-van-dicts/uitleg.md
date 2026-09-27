@@ -67,7 +67,11 @@ mechaniek snapt, ziet zo'n fout bij het lezen. Dat is jouw rol.
 
 ## Je bent klaar met fase 1 🎉
 
-Variabelen, lijsten, dicts, loops, condities, functies, geneste loops — dat is het
+Variabelen, lijsten, dicts, loops, condities, functies, geneste loops: dat is het
 hele fundament. Vanaf nu ga je dit niet alleen schrijven, maar ook **AI-code ermee
 lezen en beoordelen**. Eerst nog één ding: dat fundament inzetten in een echt
-projectje. Door naar **Project 1**.
+projectje, Project 1.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

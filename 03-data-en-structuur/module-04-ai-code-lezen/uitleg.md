@@ -67,3 +67,7 @@ tegen af te zetten.
 Je hebt nu de kernvaardigheid van deze cursus: niet alleen lezen wat code doet,
 maar zoeken naar wat hij overslaat. In fase 3 pas je precies deze vraag toe op een
 heel optimalisatiemodel — daar is de inzet nog groter, en de fouten nog stiller.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

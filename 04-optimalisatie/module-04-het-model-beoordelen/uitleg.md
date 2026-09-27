@@ -47,3 +47,7 @@ Dat is een pre-existing probleem in het voorbeeldrooster — het model weet niet
 het wijst alleen mensen toe. Die melding is niet veroorzaakt door het ontbrekende constraint;
 hij stond er al. De beschikbaarheids-meldingen (Smit op T1, Willems op T7) zijn de meldingen
 die dit model heeft veroorzaakt.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

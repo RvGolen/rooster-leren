@@ -66,3 +66,7 @@ legt geen blijvend verband tussen twee dingen.
 
 Je hoeft deze niet uit je hoofd te leren — ze komen vanzelf terug in volgende
 modules. Dat heet *spiraalvorm*: oude dingen keren steeds terug in nieuwe context.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

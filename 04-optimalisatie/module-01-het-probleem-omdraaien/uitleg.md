@@ -13,3 +13,7 @@ Neem de acht toetsen in onze voorbeelddata. Er zijn honderden manieren om die te
 Dat onderscheid is de kern van wat je in deze fase leert. Modules 2 tot en met 4 bouwen hier stap voor stap op voort: eerst maak je zelf een simpele toewijzer die de doelfunctie probeert te verlagen, dan ontdek je waar die aanpak tekortschiet, en uiteindelijk lees en beoordeel je een model dat het écht goed probeert te doen.
 
 De validator die je in Project 2 bouwde, is daarin je meest waardevolle gereedschap: hij bewaakt de harde regels, zodat jij je kunt richten op de vraag of een oplossing ook slim is.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

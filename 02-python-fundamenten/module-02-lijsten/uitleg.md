@@ -60,3 +60,7 @@ bij 3 elementen is dat index 2.
 | `len()` | geeft het aantal elementen |
 | `.append()` | voegt een element achteraan toe |
 | `IndexError` | foutmelding: je vraagt een plek op die niet bestaat |
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

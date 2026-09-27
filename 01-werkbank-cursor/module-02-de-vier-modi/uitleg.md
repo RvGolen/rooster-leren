@@ -45,3 +45,7 @@ Je leert hier geen developer worden. Je leert een **geïnformeerde regisseur van
 AI-gebouwde code** worden. De modus-keuze is daarvan de eerste concrete oefening:
 bewust kiezen wanneer de AI mag uitleggen en wanneer hij mag schrijven — en dat verschil
 altijd in de gaten houden.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

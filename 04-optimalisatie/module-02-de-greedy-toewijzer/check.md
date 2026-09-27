@@ -22,4 +22,5 @@ Waar zou een "pak steeds de goedkoopste"-aanpak in jóuw rooster of planning fou
 
 ---
 
-Klaar? Ga naar **`uitleg.md`** voor de verklaring, en daarna naar **module 3**.
+Klaar? Ga naar **`uitleg.md`** voor de verklaring, en daarna naar
+**`../module-03-denken-als-een-solver/les.md`**.

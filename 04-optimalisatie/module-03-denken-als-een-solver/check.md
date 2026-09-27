@@ -29,3 +29,8 @@ Denk aan je eigen werk: een rooster, een planning, een toewijzing van taken.
 
 Vraag het daarna in **Ask-modus**: *"klopt het dat dit een constraint is en dat een objective?"*
 Laat je verrassen.
+
+---
+
+➡️ Door naar **`../module-04-het-model-beoordelen/les.md`**: een gegenereerd model
+lezen en beoordelen.

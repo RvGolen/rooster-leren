@@ -38,3 +38,7 @@ een AI bouwt. In Fase 4 draait alles om precies deze reflex:
 Wat hier als een simpel accept/reject-knopje begint, is straks je belangrijkste
 gereedschap om AI-code te vertrouwen zónder blind te varen. Je oefent het nu vast, in het
 klein.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

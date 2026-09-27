@@ -57,3 +57,7 @@ tellen, AI-code kritisch lezen, een class lezen, en je code opdelen in
 bestanden. In fase 3 zet je dit in voor iets groters: een rooster dat
 zichzelf (deels) optimaliseert — en de vraag "wat staat er NIET, en zou dat er
 moeten staan?" uit module 4 blijft daarbij je belangrijkste gereedschap.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

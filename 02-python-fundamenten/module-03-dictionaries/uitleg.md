@@ -50,3 +50,7 @@ andere helft.
 | key (sleutel) | het label waarmee je een waarde opvraagt: `toets["tijd"]` |
 | value (waarde) | wat er achter de key zit |
 | `KeyError` | foutmelding: je vraagt een key op die niet bestaat |
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

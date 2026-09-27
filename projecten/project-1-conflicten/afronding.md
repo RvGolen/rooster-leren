@@ -54,6 +54,6 @@ meestal een CSV (een simpele tabel). Vanaf fase 2:
 - en begint elke module met de **"jouw situatie"-haak**: het concept toepassen op
   jóuw echte rooster.
 
-Neem gerust even pauze. Als je terugkomt, start je in **`../../03-data-en-structuur/`**.
+Neem gerust even pauze. Als je terugkomt, start je in **`../../03-data-en-structuur/00-overzicht.md`**.
 
 🎉 Tot zover fase 1 — knap werk.

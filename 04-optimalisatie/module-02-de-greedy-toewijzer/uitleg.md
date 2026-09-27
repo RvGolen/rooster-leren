@@ -11,3 +11,7 @@ Door per toets apart de goedkoopste te pakken, zonder te kijken naar wat er daar
 Dit is de kern van het probleem: met losse, lokale keuzes krijg je alles tegelijk goed én goedkoop bijna niet voor elkaar. Je kunt twee conflicten tegelijk zien — de dubbelboeking en de dure specialist — maar elke lokale keuze die het ene oplost, maakt het andere erger.
 
 **Daarom bestaat een solver.** Een solver kijkt niet één stap vooruit — hij bekijkt alle mogelijke toewijzingen tegelijk en kiest de goedkoopste die aan alle regels voldoet. Dat is precies wat module 3 introduceert.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

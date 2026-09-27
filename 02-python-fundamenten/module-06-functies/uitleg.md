@@ -64,3 +64,7 @@ waarde verder te gebruiken: `totaal = kosten(3, 30) * aantal_dagen`. Met de
 | aanroepen (call) | de functie gebruiken: `kosten(3, 30)` |
 | `and` | combineert twee voorwaarden; waar als **beide** waar zijn |
 | abstractie | details verbergen achter een begrijpelijke naam |
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

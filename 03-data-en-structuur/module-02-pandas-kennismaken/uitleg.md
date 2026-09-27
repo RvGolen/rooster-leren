@@ -53,6 +53,10 @@ kast om dezelfde soort bestanden te lezen.
 ## Door naar de volgende module
 
 Je kunt nu een CSV-bestand als tabel inlezen en er de basisvragen over stellen:
-hoeveel rijen, welke kolommen, wat is de som. In
-`module-03-pandas-filteren-tellen/` ga je die tabel gerichter bevragen —
-filteren, selecteren, en meer dan alleen optellen.
+hoeveel rijen, welke kolommen, wat is de som. In module 3 (pandas: filteren en
+tellen) ga je die tabel gerichter bevragen: filteren, selecteren, en meer dan
+alleen optellen.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.

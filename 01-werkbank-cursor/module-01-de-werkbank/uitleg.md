@@ -46,3 +46,7 @@ begint letterlijk bij op Enter drukken en kijken wat er gebeurt.
 Als draaien en kijken vanzelf gaan, kun je je in Fase 1 volledig op het *denken*
 richten. Je verspilt geen energie meer aan "hoe krijg ik dit aan de praat". De
 werkbank moet onzichtbaar worden, zodat het gereedschap alle aandacht krijgt.
+
+---
+
+➡️ Verder met **`check.md`** van deze module. Onderaan staat waar je daarna heen gaat.
