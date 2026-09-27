@@ -38,13 +38,13 @@ Hoe pak je het **laatste** element op, zonder het indexnummer te raden?
 ## 4. Leg het in je eigen woorden uit ✍️
 
 > Wanneer kies je een **lijst** in plaats van een paar losse variabelen? Noem in
-> twee zinnen een voorbeeld uit een rooster. Schrijf het in `voortgang.md`.
+> twee zinnen een voorbeeld uit een rooster. Schrijf het in `../../voortgang.md`.
 
 ---
 
 ## Klaar met module 2 ✅
 
-Noteer in `voortgang.md` wat lastig was.
+Noteer in `../../voortgang.md` wat lastig was.
 
 > 🔎 **Vooruitblik (spiraalvorm):** een lijst van lokalen is mooi, maar over één
 > toets wil je méér weten dan alleen de naam: het lokaal, de tijd, het aantal

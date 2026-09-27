@@ -24,7 +24,7 @@ Goed gedaan dat je dit hebt gebouwd. Even terugkijken — en vooruit.
 
 ---
 
-## Reflectie ✍️ (in `voortgang.md`)
+## Reflectie ✍️ (in `../../voortgang.md`)
 
 1. Welke van de vier regels was het lastigst te vertalen naar code, en
    waarom? Wat maakte die regel anders dan de rest?

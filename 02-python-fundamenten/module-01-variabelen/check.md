@@ -50,14 +50,14 @@ surveillanten = "2"
 > **wat is een variabele, en waarom is `=` hier niet hetzelfde als "is gelijk aan"
 > in de wiskunde?**
 >
-> Typ je antwoord ergens op (bijvoorbeeld in `voortgang.md`). Het hardop of op
+> Typ je antwoord ergens op (bijvoorbeeld in `../../voortgang.md`). Het hardop of op
 > schrift formuleren is precies waar het inslijt.
 
 ---
 
 ## Klaar met module 1 ✅
 
-- Noteer in **`voortgang.md`**: wat ging vlot, en wat was even lastig?
+- Noteer in **`../../voortgang.md`**: wat ging vlot, en wat was even lastig?
 - Vond je iets onduidelijk? Vraag je AI-tutor in **Ask-modus** om het *anders* uit
   te leggen — niet om de opdracht voor je te maken.
 

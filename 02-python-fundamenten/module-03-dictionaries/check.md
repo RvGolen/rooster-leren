@@ -37,7 +37,7 @@ Voor elk van deze, kies je een lijst of een dict — en waarom?
 ## 4. Leg het in je eigen woorden uit ✍️
 
 > Leg in twee zinnen uit wat het verschil is tussen een lijst en een dictionary,
-> met een rooster-voorbeeld. Schrijf het in `voortgang.md`.
+> met een rooster-voorbeeld. Schrijf het in `../../voortgang.md`.
 
 ---
 

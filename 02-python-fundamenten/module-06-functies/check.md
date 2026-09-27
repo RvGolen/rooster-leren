@@ -49,7 +49,7 @@ def heeft_conflict(a, b):
 
 > Wat is een functie, en waarom is het handig om logica (zoals `heeft_conflict`) een
 > naam te geven in plaats van de code telkens opnieuw te schrijven? Twee à drie
-> zinnen, in `voortgang.md`.
+> zinnen, in `../../voortgang.md`.
 
 ---
 

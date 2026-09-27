@@ -20,7 +20,7 @@ Goed gedaan dat je dit hebt gebouwd. Even terugkijken — en vooruit.
 
 ---
 
-## Reflectie ✍️ (in `voortgang.md`)
+## Reflectie ✍️ (in `../../voortgang.md`)
 
 1. **In je eigen woorden:** hoe vindt jouw programma alle conflicten? Beschrijf het
    in een paar zinnen, zonder code — alsof je het aan een collega uitlegt.

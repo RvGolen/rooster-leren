@@ -51,7 +51,7 @@ for toets in toetsen:
 
 > Een "harde regel" uit jouw werk wordt in code een voorwaarde. Kies één regel
 > (bijv. "studenten passen in de zaal") en beschrijf in woorden hoe je die als `if`
-> zou schrijven. In `voortgang.md`.
+> zou schrijven. In `../../voortgang.md`.
 
 ---
 

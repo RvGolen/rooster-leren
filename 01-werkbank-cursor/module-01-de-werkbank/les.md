@@ -31,7 +31,7 @@ grofweg vier gebieden. Je hoeft niets te onthouden — herken ze straks gewoon t
 3. **De terminal (onder).** Een tekstvenster waarin je de computer opdrachten geeft,
    zoals "draai dit script". Vaak nog verborgen — die openen we zo.
 4. **De statusbalk (onderrand).** Een dunne balk met kleine knopjes en meldingen —
-   o.a. de Cursor Tab-schakelaar (uit spelregel 1 in `00-start-hier.md`).
+   o.a. de Cursor Tab-schakelaar (uit spelregel 1 in `../../00-start-hier.md`).
 
 > ⚠️ **Ziet jouw scherm er anders uit?** Dat kan; Cursor verandert per versie. Zoek
 > dan het gebied met dezelfde naam. De vier begrippen hierboven bestaan altijd.

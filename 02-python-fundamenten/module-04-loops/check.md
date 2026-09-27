@@ -48,7 +48,7 @@ for toets in toetsen:
 ## 4. Leg het in je eigen woorden uit ✍️
 
 > Waarom is een loop handiger dan dezelfde regel veertig keer kopiëren? Twee zinnen,
-> in `voortgang.md`.
+> in `../../voortgang.md`.
 
 ---
 

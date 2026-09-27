@@ -35,7 +35,7 @@ dubbelboeking en geschiktheid.
 
 ---
 
-## Reflectie ✍️ (in `voortgang.md`)
+## Reflectie ✍️ (in `../../voortgang.md`)
 
 1. Wat was moeilijker — het model *lezen* of *beoordelen*? Wat maakte het
    beoordelen lastig?
