@@ -1,14 +1,15 @@
-# Eindproject — Optimaliseer het surveillance-rooster
+# Eindproject: optimaliseer het surveillance-rooster
 #
 # Dit is een REGIE-opdracht. Je bouwt het solver-model niet zelf; je laat Cursor
 # het schrijven, in kleine stappen, en jij LEEST en BEOORDEELT elke stap.
 #
 # Werkwijze (in Cursor):
 #   1. Zet Cursor in PLAN-modus en beschrijf de opdracht: een zo goedkoop mogelijk
-#      rooster maken dat aan ALLE VIJF de regels voldoet (dekking, capaciteit,
-#      beschikbaarheid, dubbelboeking, geschiktheid).
+#      rooster maken dat aan de VIER toewijzings-regels voldoet (dekking,
+#      beschikbaarheid, dubbelboeking, geschiktheid). Capaciteit hoort niet in het
+#      model: welk lokaal een toets heeft, ligt vast in de data.
 #   2. Laat Cursor het model stap voor stap opbouwen. Lees elke diff. Vraag bij elke
-#      constraint: "welke van mijn vijf regels is dit?".
+#      constraint: "welke van mijn vier toewijzings-regels is dit?".
 #   3. LET OP het gat uit module 4: controleer expliciet dat de beschikbaarheids-
 #      constraint erin zit.
 #   4. Draai het, schrijf de uitkomst naar 'gemaakt_rooster.csv', en laat je

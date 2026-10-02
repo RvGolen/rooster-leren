@@ -65,7 +65,7 @@ regie-oefening, en zelf sturen en beoordelen is precies wat je oefent. Je
 laat alles uitleggen vóór je accepteert, en keur af wat je niet begrijpt. Vraag
 in **Ask-modus** om:
 
-- *"leg uit wat deze constraint doet en welke van mijn vijf regels hij afdekt"*;
+- *"leg uit wat deze constraint doet en welke van mijn vier toewijzings-regels hij afdekt"*;
 - *"is de beschikbaarheids-constraint aanwezig? Wijs hem aan in de code"*;
 - *"mijn validator meldt nog 2 overtredingen — welke constraint ontbreekt
   waarschijnlijk?"*
