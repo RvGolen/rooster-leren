@@ -147,7 +147,30 @@ alleen niet als tutor, maar geeft gewoon de antwoorden weg. En daar leer je niet
 
 ---
 
-## Stap 6: laat Cursor je installatie nakijken
+## Stap 6: kies het model voor je AI-assistent (belangrijk!)
+
+Cursor kan verschillende AI-modellen gebruiken. Standaard staat hij op **Auto**:
+dan kiest Cursor zelf, en dat is vaak een lichter model. De tutor in deze cursus
+is getest met **Claude Sonnet**. Met een lichter model is hij minder scherp: hij
+keurt dan sneller iets goed dat hij niet echt heeft bekeken.
+
+1. Open de chat in Cursor met **Ctrl+L**.
+2. Onderaan het chatvenster staat welk model er nu gekozen is, vaak **Auto**.
+   Klik erop.
+3. Zet **Auto** uit. Dan zie je de lijst met modellen.
+4. Kies een model met **Sonnet** in de naam. Staan er meerdere? Neem dan de
+   nieuwste.
+
+Kijk bij een nieuwe chat even of er nog Sonnet staat. Staat er weer Auto, zet
+hem dan terug.
+
+Zie je geen Sonnet in de lijst, of krijg je een melding over je abonnement?
+**Stuur me een bericht** en begin nog niet aan de cursus. De tutor is juist met
+Sonnet getest.
+
+---
+
+## Stap 7: laat Cursor je installatie nakijken
 
 Nu de leuke stap: je laat de AI-assistent zelf controleren of alles goed staat.
 
