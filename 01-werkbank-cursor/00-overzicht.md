@@ -29,7 +29,6 @@ Doe ze op volgorde. Elke module heeft een `les.md` waar je begint.
 
 ## Voordat je begint
 
-- Heb je Cursor nog niet? Zie **`../00-start-hier.md`** (installeren + deze map openen).
 - Cursor-schermindeling ziet er per versie iets anders uit. De aanwijzingen hier
   noemen steeds het **menupad** en **waar je moet kijken**; wijkt jouw scherm af, zoek
   dan de knop met dezelfde naam. Kom je er niet uit? Vraag het in **Ask-modus** (die
@@ -39,5 +38,5 @@ Doe ze op volgorde. Elke module heeft een `les.md` waar je begint.
 
 ## Klaar? Begin hier
 
-Open **`module-01-de-werkbank/les.md`** en ga van start. Houd onderweg
-**`../voortgang.md`** bij.
+Zeg in de chat **verder**, dan begin je aan de eerste module
+(`module-01-de-werkbank/les.md`). Houd onderweg **`../voortgang.md`** bij.

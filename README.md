@@ -62,6 +62,9 @@ Drie dingen. Dit is wat ze doen, zodat je niet blind op knopjes klikt:
 2. Installeer het en start het op.
 3. Maak een account aan of log in. Dat is nodig, want de AI-assistent werkt
    alleen als je ingelogd bent.
+4. **Zie je alleen een groot chatscherm, zonder bestanden?** Dan staat Cursor in
+   de agent-weergave. Klik **rechtsboven** op het knopje om naar de **editor** te
+   gaan. Daar zie je links je mappen en bestanden, en daar werk je in deze cursus.
 
 Cursor installeert zichzelf normaal in je eigen gebruikersmap en heeft daarvoor
 geen beheerdersrechten nodig.
@@ -187,7 +190,9 @@ gewone taal zonder jargon. Doe het volgende:
 2. Kijk of git werkt.
 3. Kijk of ik als gewone gebruiker Python-pakketten mag installeren. Gebruik
    daarvoor een dry-run met de --user optie, zodat er nu nog niets echt wordt
-   geïnstalleerd. Later in de cursus heb ik pandas en ortools nodig.
+   geïnstalleerd. Later in de cursus heb ik pandas en ortools nodig. Is pip te
+   oud voor --dry-run, test het dan met pip download naar een tijdelijke map
+   en ruim die map daarna weer op.
 4. Let bij punt 3 ook op foutmeldingen over SSL, certificaten of een proxy. Die
    komen op werklaptops vaker voor en zijn belangrijk om nu te weten.
 5. Kijk of het bestand .cursor/rules/tutor.mdc bestaat vanuit deze map.
@@ -231,8 +236,15 @@ op ingesteld.
 
 ## Klaar? Dan begin je hier
 
-Open **[`00-start-hier.md`](00-start-hier.md)** in de Explorer aan de linkerkant.
-Daar staat hoe de cursus is opgebouwd en wat de spelregels zijn.
+Vanaf hier hoef je geen bestanden meer te lezen: je AI-assistent loodst je door
+de cursus, in de chat.
+
+1. Open de chat met **Ctrl+I** en zet hem met **Shift+Tab** op **Ask**.
+2. Typ: **Start de cursus**
+
+Hij laat je dan stap voor stap zien wat er te doen is: eerst hoe de cursus in
+elkaar zit, daarna de eerste module. Aan het eind van elke module zegt hij wat
+je in een nieuwe chat moet typen om verder te gaan.
 
 Houd onderweg [`voortgang.md`](voortgang.md) bij. Dat is van jou, maar het helpt
 enorm om te zien waar het schuurt.

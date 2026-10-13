@@ -100,10 +100,10 @@ expres. Als je vastloopt, vraag dan om een *hint*, niet om "de oplossing".
 
 ## Klaar? Begin hier
 
-1. Lees de rest van dit bestand niet nóg een keer 🙂 — je weet genoeg.
-2. Zet Cursor Tab uit (zie spelregel 1).
-3. Open **`01-werkbank-cursor/00-overzicht.md`** en doe eerst **Fase 0**: wegwijs
-   worden in Cursor en je eerste script draaien. Daarna stuurt het je door naar Fase 1.
-4. Houd onderweg **`voortgang.md`** bij: wat je af hebt en wat lastig was.
+1. Zet Cursor Tab uit (zie spelregel 1).
+2. Daarna begin je met **Fase 0**: wegwijs worden in Cursor en je eerste script
+   draaien. Zeg in de chat **verder**, dan krijg je het overzicht van Fase 0
+   (`01-werkbank-cursor/00-overzicht.md`).
+3. Houd onderweg **`voortgang.md`** bij: wat je af hebt en wat lastig was.
 
 Veel plezier. Klein beginnen is precies goed.
