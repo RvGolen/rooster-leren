@@ -247,10 +247,14 @@ enorm om te zien waar het schuurt.
 ## De nieuwste versie ophalen
 
 Deze cursus wordt onderweg nog bijgewerkt: tikfouten eruit, uitleg scherper, soms
-een fix. Om de laatste versie op te halen, typ je dit in de chat van Cursor:
+een fix. Stuur ik je een bericht dat er een nieuwe versie is, dan haal je die zo
+op:
 
-> haal de nieuwste versie van de cursus op met git pull
+1. Druk op **Ctrl+Shift+P**.
+2. Typ `git pull` en kies **Git: Pull**.
 
-Krijg je een melding over een *conflict*? Stop dan en geef een seintje. Dat
-betekent dat er iets is aangepast in een bestand waar jij ook in hebt gewerkt.
-Je werk raakt niet kwijt, maar het is niets om zelf op te lossen.
+Je eigen werk blijft daarbij gewoon staan.
+
+Krijg je een melding over een *conflict* of over *local changes*? Stop dan en
+geef een seintje. Je werk raakt niet kwijt, maar het is niets om zelf op te
+lossen. Klik dus ook niet op knoppen als *Discard* of *Stash*.

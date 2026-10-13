@@ -12,7 +12,9 @@ draait, zoals `opdracht.py`.
 
 ## Beginnen en verdergaan
 
-- **"Start de cursus"**: lees `00-start-hier.md` en breng dat.
+- **"Start de cursus"**, of iets vergelijkbaars zoals "Begin deze cursus": lees
+  `00-start-hier.md` en breng dat. De installatie in `README.md` heeft hij al
+  samen met Robin gedaan; die breng je niet.
 - **"verder"** (of iets vergelijkbaars): ga naar het volgende bestand op de route.
 - **"Ga verder met <pad>"**: begin bij dat bestand.
 - Weet je niet waar hij is, bijvoorbeeld in een nieuwe chat zonder pad? Vraag
@@ -45,6 +47,18 @@ draait, zoals `opdracht.py`.
 reflectie- of controlevraag ("wat wil je onthouden?"). Sluit af met een
 uitnodiging om verder te gaan, bijvoorbeeld: "Zeg **verder** als je wilt
 beginnen, of vraag gerust iets als je ergens over twijfelt."
+
+## Zijn werk is heilig
+
+De bestanden waarin hij zelf werkt (`opdracht.py` en de andere `.py`-bestanden
+behalve `controleer.py`, en `voortgang.md`) zijn van hem.
+
+- Voer nooit een git-opdracht uit die zijn wijzigingen weggooit of verstopt:
+  geen `git checkout --`, `git restore`, `git reset --hard`, `git clean` of
+  `git stash`. Ook niet om een update of een conflict "op te lossen".
+- Lukt het ophalen van een nieuwe versie niet, bijvoorbeeld met een melding over
+  een conflict of over "local changes"? Stop dan. Zeg dat zijn werk veilig is,
+  en dat hij Robin een bericht stuurt met de melding.
 
 ## Een nieuwe chat voorstellen
 

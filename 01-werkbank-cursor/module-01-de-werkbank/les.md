@@ -18,23 +18,11 @@ print("Hallo! Dit script draait. 🎉")
 
 ---
 
-## Rondleiding: de vier delen van je scherm
+## Je scherm
 
-Open deze map in Cursor (*File → Open Folder…* → kies `rooster-leren`). Je ziet
-grofweg vier gebieden. Je hoeft niets te onthouden — herken ze straks gewoon terug.
-
-1. **De Explorer (links).** Een boom met mappen en bestanden. Hier klik je een
-   bestand aan om het te openen. Zie je de Explorer niet? *View → Explorer* (of het
-   bovenste icoon in de smalle balk helemaal links).
-2. **De editor (midden).** Hier zie en bewerk je de inhoud van een bestand. Dit is
-   je "werkblad".
-3. **De terminal (onder).** Een tekstvenster waarin je de computer opdrachten geeft,
-   zoals "draai dit script". Vaak nog verborgen — die openen we zo.
-4. **De statusbalk (onderrand).** Een dunne balk met kleine knopjes en meldingen,
-   o.a. de Cursor Tab-schakelaar (uit spelregel 1 in `../../00-start-hier.md`).
-
-> ⚠️ **Ziet jouw scherm er anders uit?** Dat kan; Cursor verandert per versie. Zoek
-> dan het gebied met dezelfde naam. De vier begrippen hierboven bestaan altijd.
+De rondleiding over je scherm heb je al met Robin gedaan: links de **Explorer**
+met je bestanden, in het midden de **editor** waarin je een bestand leest en
+schrijft, en onderin de **terminal** waarin je een script draait.
 
 ---
 
@@ -50,8 +38,14 @@ de `#`-regels zijn **comments**: uitleg voor mensen, die de computer overslaat.
 
 Nu het echte werk: je gaat het script *draaien*.
 
-1. Open de terminal: menu **Terminal → New Terminal**. Onderin verschijnt een
-   tekstvenster met een knipperende cursor.
+1. Open de terminal **in de map van deze module**: klik in de Explorer met de
+   rechtermuisknop op de map `module-01-de-werkbank` en kies **Open in
+   Integrated Terminal**. Onderin verschijnt een tekstvenster met een
+   knipperende cursor.
+
+   > Waarom zo? De terminal zoekt `opdracht.py` in de map waar hij staat. Open je
+   > hem via het menu, dan staat hij in de hoofdmap `rooster-leren`, en daar staat
+   > dit bestand niet.
 2. Typ deze opdracht en druk op Enter:
 
    ```

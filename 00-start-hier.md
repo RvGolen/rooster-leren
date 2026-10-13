@@ -19,13 +19,8 @@ dingen schrijven. Dat fundament betaalt zich later dubbel terug.
 
 ## Wat je nodig hebt
 
-Alles wat je moet installeren staat in **[`README.md`](README.md)**: Cursor,
-Python en Git, met een controlestap om te zien of het goed staat.
-
-> **Heb je die nog niet doorlopen? Doe dat eerst.** Zonder die stappen loop je in
-> module 1 al vast op iets wat niets met de stof te maken heeft.
-
-Heb je hem wel gedaan, dan ben je klaar. De voorbeelddata zit erbij.
+Niets meer: de installatie hebben we samen gedaan. Cursor, Python en Git staan
+klaar, en de voorbeelddata zit erbij.
 
 ---
 
@@ -67,8 +62,10 @@ Houd modules klein: 15–30 minuten per stuk. Liever vaker even, dan lange sessi
 Cursor kan tijdens het typen hele regels voor je afmaken. Handig later, maar nú
 leert je brein er niets van. Je leest alleen mee in plaats van zelf te denken.
 
-> **Tab uitzetten:** klik rechtsonder in de statusbalk op het Cursor Tab-icoon en
-> zet het op *disabled* (of via *Settings → Tab*). Je zet het pas weer aan in fase 2.
+> **Tab staat al uit**: dat hebben we samen gedaan. Zie je tijdens het typen toch
+> grijze tekst verschijnen die je met Tab kunt overnemen? Klik dan rechtsonder in
+> de statusbalk op **Tab** en kies *Disable globally*. Je zet het pas weer aan in
+> fase 2.
 
 ### 2. **Ask-modus is je tutor — niet Agent-modus**
 
@@ -100,10 +97,12 @@ expres. Als je vastloopt, vraag dan om een *hint*, niet om "de oplossing".
 
 ## Klaar? Begin hier
 
-1. Zet Cursor Tab uit (zie spelregel 1).
-2. Daarna begin je met **Fase 0**: wegwijs worden in Cursor en je eerste script
+De installatie en de instellingen hebben we samen gedaan, dus je kunt meteen
+beginnen.
+
+1. Je begint met **Fase 0**: wegwijs worden in Cursor en je eerste script
    draaien. Zeg in de chat **verder**, dan krijg je het overzicht van Fase 0
    (`01-werkbank-cursor/00-overzicht.md`).
-3. Houd onderweg **`voortgang.md`** bij: wat je af hebt en wat lastig was.
+2. Houd onderweg **`voortgang.md`** bij: wat je af hebt en wat lastig was.
 
 Veel plezier. Klein beginnen is precies goed.
