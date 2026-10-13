@@ -3,8 +3,10 @@
 Een cursus Python en Cursor, opgebouwd rond één praktijkvoorbeeld: het
 surveillance-rooster bij toetsen.
 
-**Lees deze pagina eerst helemaal.** Het is de enige keer dat je iets moet
-installeren. Daarna kun je gewoon beginnen.
+**Het installeren doen we samen**, in één sessie van ongeveer een uur. Deze
+pagina is daarbij ons spiekbriefje: je hoeft hem niet alleen door te werken.
+Het is ook de enige keer dat er iets geïnstalleerd moet worden. Daarna ga je
+zelf verder.
 
 ---
 
@@ -30,17 +32,14 @@ lukken.
 
 ## Vooraf: je laptop is van de universiteit
 
-Op een werklaptop mag je vaak niet zomaar alles installeren. Daar gaan we
-gewoon achter komen, en dat is prima. Eén afspraak vooraf:
+Op een werklaptop mag je vaak niet zomaar alles installeren. Daar komen we in
+de sessie samen achter, en dat is prima. Alle installaties hieronder kunnen
+normaal gesproken zonder beheerdersrechten, maar dat verschilt per laptop.
 
-> **Vraagt Windows ergens om een beheerderswachtwoord dat je niet hebt, of zegt
-> hij dat je geen rechten hebt? Stop daar dan en stuur me een bericht.**
-> Ga er niet omheen zoeken en probeer geen trucjes van internet. Er is bijna
-> altijd een andere weg, en die zoeken we samen uit. Dit is een van de twee
-> dingen waarvoor je mij meteen mag storen.
-
-Alle drie de installaties hieronder kunnen normaal gesproken zonder
-beheerdersrechten. Maar dat verschilt per laptop, dus we testen het gewoon.
+> **Ook later geldt: vraagt Windows ergens om een beheerderswachtwoord dat je
+> niet hebt, of zegt hij dat je geen rechten hebt? Stop daar dan en stuur me een
+> bericht.** Ga er niet omheen zoeken en probeer geen trucjes van internet. Er is
+> bijna altijd een andere weg, en die zoeken we samen uit.
 
 ---
 
@@ -104,9 +103,8 @@ geen beheerdersrechten nodig.
 1. Ga naar **git-scm.com** en download Git voor Windows.
 2. Start de installer en klik overal gewoon op **Next**. De standaardinstellingen
    zijn prima; je hoeft niets te veranderen.
-3. Vraagt Windows hier om een beheerderswachtwoord dat je niet hebt? **Stop en
-   stuur me een bericht.** Er is een versie van Git die dat niet nodig heeft, die
-   zet ik dan voor je klaar. Dit is niet iets om zelf mee te gaan puzzelen.
+3. Vraagt Windows hier om een beheerderswachtwoord dat je niet hebt? Geen
+   probleem: er is een versie van Git die dat niet nodig heeft. Die pakken we dan.
 
 Start Cursor daarna **opnieuw op**, zodat het Python en Git kan zien.
 
@@ -173,40 +171,35 @@ Sonnet getest.
 
 ---
 
-## Stap 7: laat Cursor je installatie nakijken
+## Stap 7: samen controleren of alles werkt
 
-Nu de leuke stap: je laat de AI-assistent zelf controleren of alles goed staat.
+Als laatste kijken we samen of alles echt werkt. Dat doen we in de **terminal**:
+een tekstvenster waarin je de computer opdrachten geeft. Open hem via het menu
+**Terminal → New Terminal**. Hij verschijnt onderin.
 
-1. Open de chat in Cursor met **Ctrl+L**.
-2. Kopieer onderstaande tekst er helemaal in en druk op Enter.
+Typ deze opdrachten één voor één, en druk na elke opdracht op Enter:
 
-```
-Ik ben een complete beginner en ga in deze map een Python-cursus doen.
-Ik werk op Windows, op een laptop van mijn werk waarop ik waarschijnlijk geen
-beheerdersrechten heb. Controleer of mijn computer klaar is, en leg het uit in
-gewone taal zonder jargon. Doe het volgende:
+1. Werkt Python? Je ziet dan een versienummer, zoals `Python 3.14.0`.
+   ```
+   python --version
+   ```
+2. Werkt Git? Ook hier verschijnt een versienummer.
+   ```
+   git --version
+   ```
+3. Installeer de twee pakketten die je later in de cursus nodig hebt. Dit duurt
+   even, en er komt veel tekst voorbij. Dat hoort zo.
+   ```
+   python -m pip install --user pandas ortools
+   ```
+4. Controleer of ze er staan. Zie je `klaar`, dan is alles in orde.
+   ```
+   python -c "import pandas, ortools; print('klaar')"
+   ```
 
-1. Kijk of Python werkt en welke versie het is.
-2. Kijk of git werkt.
-3. Kijk of ik als gewone gebruiker Python-pakketten mag installeren. Gebruik
-   daarvoor een dry-run met de --user optie, zodat er nu nog niets echt wordt
-   geïnstalleerd. Later in de cursus heb ik pandas en ortools nodig. Is pip te
-   oud voor --dry-run, test het dan met pip download naar een tijdelijke map
-   en ruim die map daarna weer op.
-4. Let bij punt 3 ook op foutmeldingen over SSL, certificaten of een proxy. Die
-   komen op werklaptops vaker voor en zijn belangrijk om nu te weten.
-5. Kijk of het bestand .cursor/rules/tutor.mdc bestaat vanuit deze map.
-
-Geef me daarna een kort lijstje: wat werkt, wat werkt niet, en wat ik eraan moet
-doen. Als iets om een beheerderswachtwoord vraagt of door de beheerder wordt
-geblokkeerd, zeg dat dan gewoon eerlijk en probeer het niet te omzeilen.
-```
-
-3. Lees zijn antwoord. Staat alles op groen? Dan ben je klaar om te beginnen.
-
-Zegt hij dat punt 3 of 4 niet lukt? **Stuur me het antwoord door.** Dat is precies
-waarom we dit nú testen en niet pas over drie weken, halverwege de cursus. Dan
-lossen we het rustig op voordat je er last van krijgt.
+Zien we bij stap 3 iets over **SSL, een certificaat of een proxy**? Dan lossen we
+dat nu samen op. Daarom doen we dit vandaag, en niet pas over drie weken,
+halverwege de cursus.
 
 ---
 
@@ -236,8 +229,8 @@ op ingesteld.
 
 ## Klaar? Dan begin je hier
 
-Vanaf hier hoef je geen bestanden meer te lezen: je AI-assistent loodst je door
-de cursus, in de chat.
+Tot hier deden we het samen. Vanaf nu ga je zelf verder, en je hoeft geen
+bestanden meer te lezen: je AI-assistent loodst je door de cursus, in de chat.
 
 1. Open de chat met **Ctrl+I** en zet hem met **Shift+Tab** op **Ask**.
 2. Typ: **Start de cursus**

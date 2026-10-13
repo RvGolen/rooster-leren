@@ -18,6 +18,9 @@ in Cursor) en typ:
 pip install ortools
 ```
 
+Hebben we ortools bij het installeren al samen neergezet? Dan zegt pip `Requirement already
+satisfied`. Dat betekent: staat er al. Prima, dan kun je door.
+
 Meestal werkt dit meteen. Maar hier zijn de drie dingen die kunnen misgaan — en de uitweg:
 
 **1. `pip: command not found`**

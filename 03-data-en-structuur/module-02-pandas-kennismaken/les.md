@@ -18,6 +18,10 @@ en typ:
 pip install pandas
 ```
 
+Hebben we pandas bij het installeren al samen neergezet? Dan zegt pip
+`Requirement already satisfied`. Dat betekent: staat er al. Prima, dan kun je
+door.
+
 Meestal werkt dit meteen. Maar een installatie is nieuw terrein, dus hier zijn
 de drie dingen die kunnen misgaan — en de uitweg per geval:
 
