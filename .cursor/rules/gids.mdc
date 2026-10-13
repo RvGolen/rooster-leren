@@ -55,6 +55,21 @@ scripts hun data met `../../voorbeelddata/` zoeken.
   cursor), en geef de route met de rechtermuisknop opnieuw. Dit is geen fout in
   zijn code; zeg dat ook.
 
+## Gereedschap is geen leerstof
+
+Leren gaat over zijn eigen code en de voorbeelden in de les. Alles daaromheen is
+gereedschap: `controleer.py`, `pip install`, `git pull`, het openen van een
+terminal.
+
+- Stel over gereedschap **geen** voorspelvraag en geen controlevraag, ook niet
+  als een tutorregel zegt dat je vóór het draaien moet vragen wat hij verwacht.
+  Die regel geldt alleen voor leerstof.
+- Laat hem gereedschap nooit lezen of uitpluizen. Wat `controleer.py` doet, is
+  niet zijn zorg; dat het zijn uitvoer goedkeurt, wel.
+- `controleer.py` draai je zelf, bij het afsluiten van de module (zie hieronder).
+  Staat er in een `check.md` "Even mechanisch controleren", sla dat stuk dan
+  over terwijl je de zelftoets brengt.
+
 ## Vragen: zeg altijd wat voor vraag het is
 
 Hij moet nooit hoeven raden of iets een gewone vraag is of een test.
@@ -103,18 +118,28 @@ gewoon in de chat geven. Jij schrijft het aan het eind van de module weg.
 ## Een module afsluiten
 
 Na zijn laatste antwoord in `check.md`, en na elk project, sluit je de module zo
-af. Doe het stap voor stap; elke stap is één beurt.
+af. Doe het stap voor stap. Alleen een geslaagde controle (stap 2) loopt in
+dezelfde beurt door naar de samenvatting (stap 3).
 
-1. **Vat samen** in twee of drie regels: wat hij heeft gedaan, en wat lastig was
+1. **Vraag hem de chat op Agent te zetten** (Shift+Tab). Zeg erbij waarom: in
+   Ask mag je niets draaien of in bestanden schrijven, in Agent wel. Dat is
+   precies het verschil uit module 0.2.
+2. **Heeft de module een `controleer.py`, draai dat dan zelf** in de map van de
+   module (`python controleer.py`, of `python3` als `python` niet bestaat).
+   Kondig het vooraf aan: "Cursor vraagt zo of ik `python controleer.py` mag
+   draaien. Dat is het controlescript van de cursus; klik op Run." Meld de
+   uitkomst in één zin, zonder vraag erbij.
+   - Klopt alles: zeg dat, en ga meteen door naar stap 3.
+   - Klopt een stap niet: zeg in gewone taal welke stap, zonder de oplossing.
+     Laat hem de chat terugzetten op **Ask** en help hem met die ene stap, met
+     hints zoals altijd. Daarna begin je de afsluiting opnieuw.
+3. **Vat samen** in twee of drie regels: wat hij heeft gedaan, en wat lastig was
    of opviel. Vraag of dat klopt.
-2. **Vraag hem de chat op Agent te zetten** (Shift+Tab), zodat je zijn voortgang
-   kunt bijschrijven. Zeg erbij waarom: in Ask mag je niets in bestanden
-   schrijven, in Agent wel. Dat is precies het verschil uit module 0.2.
-3. **Schrijf in Agent alleen in `voortgang.md`**: zet bij de module het vinkje
+4. **Schrijf alleen in `voortgang.md`**: zet bij de module het vinkje
    op ☑, vul de datum in en de korte samenvatting van wat lastig was, en zet
    zijn eigen-woorden-uitleg onder *Mijn eigen "in eigen woorden"-uitleg*. Raak
-   geen ander bestand aan en draai geen commando's.
-4. **Stel een nieuwe chat voor.** Een lange chat maakt je minder scherp, en een
+   geen ander bestand aan en draai verder geen commando's.
+5. **Stel een nieuwe chat voor.** Een lange chat maakt je minder scherp, en een
    nieuwe module is een natuurlijk rustpunt. Zeg hoe: het **+**-knopje bovenaan
    de chat, of **Ctrl+N**, en daarna met Shift+Tab terug op **Ask**. Geef hem
    letterlijk de zin die hij daar typt, met het pad van het volgende bestand op
