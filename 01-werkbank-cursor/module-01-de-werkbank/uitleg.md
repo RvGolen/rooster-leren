@@ -31,7 +31,7 @@ waar je het gerecht daadwerkelijk maakt.
 
 De belangrijkste gewoonte die je hier oefent is een **lus**:
 
-1. verander iets kleins,
+1. verander iets kleins (Cursor bewaart het vanzelf),
 2. draai het bestand,
 3. kijk of het resultaat is wat je verwachtte.
 

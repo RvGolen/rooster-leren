@@ -38,14 +38,27 @@ de `#`-regels zijn **comments**: uitleg voor mensen, die de computer overslaat.
 
 Nu het echte werk: je gaat het script *draaien*.
 
-1. Open de terminal **in de map van deze module**: klik in de Explorer met de
-   rechtermuisknop op de map `module-01-de-werkbank` en kies **Open in
-   Integrated Terminal**. Onderin verschijnt een tekstvenster met een
-   knipperende cursor.
+Eerst één ding dat je de hele cursus nodig hebt: **de terminal staat altijd in een
+map.** Als je `python opdracht.py` typt, zoekt hij `opdracht.py` alléén in die
+map. Staat hij in een andere map, dan vindt hij het bestand niet.
 
-   > Waarom zo? De terminal zoekt `opdracht.py` in de map waar hij staat. Open je
-   > hem via het menu, dan staat hij in de hoofdmap `rooster-leren`, en daar staat
-   > dit bestand niet.
+Daarom open je de terminal altijd zo:
+
+1. Klik in de Explorer met de **rechtermuisknop op het bestand dat je wilt
+   draaien**, hier `opdracht.py`, en kies **Open in Integrated Terminal**.
+   Onderin verschijnt een tekstvenster dat al in de goede map staat.
+
+   > **Zo zie je in welke map de terminal staat:** vlak vóór je knipperende
+   > cursor staat de naam van de map, bijvoorbeeld `module-01-de-werkbank`. Staat
+   > daar `rooster-leren`, dan zit je in de hoofdmap, en daar staat `opdracht.py`
+   > niet. Je krijgt dan een melding als:
+   >
+   > ```
+   > can't open file '...rooster-leren/opdracht.py': No such file or directory
+   > ```
+   >
+   > Dat is geen ramp: open de terminal gewoon opnieuw met de rechtermuisknop op
+   > het bestand.
 2. Typ deze opdracht en druk op Enter:
 
    ```
@@ -64,6 +77,11 @@ Nu het echte werk: je gaat het script *draaien*.
 > 💡 Belangrijk misverstand om vroeg op te ruimen: het bestand **openen** in de
 > editor voert het níet uit. Pas als je het in de terminal *draait*, gebeurt er iets.
 > Openen = lezen; draaien = uitvoeren.
+
+> 💾 **Opslaan hoeft niet.** Cursor bewaart je wijzigingen vanzelf (*Auto Save*
+> staat aan). Zie je toch een bolletje ● naast de bestandsnaam bovenaan de editor?
+> Dan is het bestand nog niet bewaard: druk op **Ctrl+S**. Een script draait altijd
+> de laatst bewaarde versie.
 
 ---
 

@@ -103,6 +103,7 @@ beginnen.
 1. Je begint met **Fase 0**: wegwijs worden in Cursor en je eerste script
    draaien. Zeg in de chat **verder**, dan krijg je het overzicht van Fase 0
    (`01-werkbank-cursor/00-overzicht.md`).
-2. Houd onderweg **`voortgang.md`** bij: wat je af hebt en wat lastig was.
+2. Aan het eind van elke module schrijft je gids voor je in **`voortgang.md`**
+   wat je af hebt en wat lastig was.
 
 Veel plezier. Klein beginnen is precies goed.

@@ -65,5 +65,5 @@ voorbeeld hierboven.
 
 ## Klaar? Begin hier
 
-Open **`module-01-csv-inlezen/les.md`** en ga van start. Houd onderweg
-**`../voortgang.md`** bij.
+Zeg in de chat **verder**, dan begin je aan de eerste module
+(`module-01-csv-inlezen/les.md`).

@@ -1,11 +1,11 @@
 # Mijn voortgang
 
-Houd hier kort bij wat je af hebt en wat lastig was. Dit is **van jou** — er kijkt
-niemand mee, en juist het opschrijven helpt je onthouden. Eén of twee regels per
-module is genoeg.
+Hier staat wat je af hebt en wat lastig was. Je hoeft dit niet zelf in te vullen:
+aan het eind van elke module vat je gids samen wat je deed, en na jouw akkoord
+schrijft hij het hier op.
 
-> Tip: vul de kolom "Wat was lastig?" eerlijk in. Daar zie je later je eigen
-> rode draad — en het is precies het soort vraag dat je in Ask-modus kunt stellen.
+> Tip: kijk hier af en toe terug. In de kolom "Wat was lastig?" zie je je eigen
+> rode draad, en dat is precies het soort vraag dat je in Ask-modus kunt stellen.
 
 ---
 

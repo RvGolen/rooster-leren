@@ -39,4 +39,4 @@ Doe ze op volgorde. Elke module heeft een `les.md` waar je begint.
 ## Klaar? Begin hier
 
 Zeg in de chat **verder**, dan begin je aan de eerste module
-(`module-01-de-werkbank/les.md`). Houd onderweg **`../voortgang.md`** bij.
+(`module-01-de-werkbank/les.md`).

@@ -10,7 +10,8 @@ niet alleen in gedachten.
 Kun je deze drie zonder aarzelen? Doe ze nog één keer:
 
 - [ ] Een bestand **openen** in de editor (klik in de Explorer op `opdracht.py`).
-- [ ] De **terminal openen** (Terminal → New Terminal).
+- [ ] De **terminal openen in de goede map** (rechtermuisknop op `opdracht.py` →
+      Open in Integrated Terminal), en zien welke map er vóór je cursor staat.
 - [ ] Het script **draaien** (`python opdracht.py`) en het resultaat zien verschijnen.
 
 > Lukt er één nog niet vlot? Herhaal alleen die stap — dat is precies waarvoor deze

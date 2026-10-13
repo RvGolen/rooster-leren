@@ -61,5 +61,5 @@ weet wie intern of extern is, en wat iedereen kost.
 
 ## Klaar? Begin hier
 
-Open **`module-01-het-probleem-omdraaien/les.md`** en ga van start. Houd
-onderweg **`../voortgang.md`** bij.
+Zeg in de chat **verder**, dan begin je aan de eerste module
+(`module-01-het-probleem-omdraaien/les.md`).

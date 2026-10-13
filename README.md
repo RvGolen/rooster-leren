@@ -239,8 +239,8 @@ Hij laat je dan stap voor stap zien wat er te doen is: eerst hoe de cursus in
 elkaar zit, daarna de eerste module. Aan het eind van elke module zegt hij wat
 je in een nieuwe chat moet typen om verder te gaan.
 
-Houd onderweg [`voortgang.md`](voortgang.md) bij. Dat is van jou, maar het helpt
-enorm om te zien waar het schuurt.
+Je gids houdt aan het eind van elke module voor je bij wat je af hebt en wat
+lastig was, in [`voortgang.md`](voortgang.md). Daar hoef je zelf niets voor te doen.
 
 ---
 
